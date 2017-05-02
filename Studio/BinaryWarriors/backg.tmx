@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="8" height="6" tilewidth="160" tileheight="160">
+ <tileset firstgid="1" name="sky_160" tilewidth="160" tileheight="160">
+  <image source="sky_160.png" width="160" height="160"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="8" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBzCGAATIAAx
+  </data>
+ </layer>
+</map>

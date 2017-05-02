@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="80" height="60" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tiles_mga" tilewidth="16" tileheight="16">
+  <image source="tiles_mga.png" width="128" height="128"/>
+ </tileset>
+ <layer name="platforms" width="80" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztm9FuwyAMRaMp/Yhu2sNS7WHb//9fgyqrKAuNg20wcI+EWqmCwsG1KWovE8jlsra59iQaZp7gTwL8yYA/GR79Xdf2vraP2hNh4NFfS8CfDPiTAX8yWvPnrba05s8b8CcD/mTAn4we/FFNoVaytvTgj6ixDo/+cuMJ/mTAny0WZ++R/FkAfzLg70HuZ7slf7TGZfJzh9CSP4I73xJ3NT370yKO+23sw58M+JPRoj9P9OhvWzcs64ilv/gewMNZw4Ie468ktf15PBOfobY/QmMOR3mPkwfjnBOf91L9evJXA01/kjoHf2MCfzJa8ee1Tuf6q3U29rbXrcQf4W2urfnT5NW9HpeR/QW+psd/iEK7ZfQv7U87b0rHC/7IwZG/vfPt6PH3Mz0d/GX0H91fQOIA/mz89XD3ya2viL80nPoKf2k49XXPAfcuycrf2XtIKzj11WP8hX1fEi3nnLqHVn7z6C/s+2+i5ZyzUmjkN4/+CFqbFbn57czrr7D2Zz2+Rn7jzlHj+9v2t/FH9aBEfZf6GTX+wl4ujPeAv/+QO2/+3jLHSfG5tm/lMWN3HH9Hc5DMcY76WzzSc63xQq4NNTfOv+TvaryW1OMdzw4h+w==
+  </data>
+ </layer>
+ <layer name="rewards" width="80" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2MENgDAMA8B+Kew/L+oELRJRGribwC/HSmsA7OLKDgAAALDgyA5AaWd2AAB44C93y74DAKLZG1TRswPwCp0DAAAARPN/AAZdsD9/f2BGTwB8m81exw1pUwCA
+  </data>
+ </layer>
+ <layer name="enemies" width="80" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2kEKgCAQAEA/5BP6/7ci6CCylhRh2cwlLNiLsq26KQEAALNZ9meuxgAAI9U1iVoFAMbZ/r+58R4AeBdn/sDs5Ll/M/8AQI+yRlA3cEV5L2LtAHdFPVBfyy2tPq7oGwAAAJSi89paa595tufsidcT50h9Rx3Fi+Lru37WCsNzCX0=
+  </data>
+ </layer>
+ <layer name="stalks" width="80" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztmbERwzAMAz1FypQpU2b/0bKCdMCJIPU/AI809JQTPw8AAAAAAAAAAADAWV7VDTTnXd1Acz7VDTSH86fB+dP4VjfQHPzVwF+NJH87vosm+ZvUyypJ/nZ8fkn+JmW5SlLmSVmukpR5UparJGWelOUqSZknZbmKK3PHu9vPUOM0rsyTzvFJXHN33F0OXHN33F0OXHPf+vxc/t66/1z+3rr/8FcDfzXwVwN/NfBXA381Jvhb+d3J5V3lfyeVu2OCd5UzTLg3nTPs7oIJ96Zzht1a+KvVwl+tFv5qtfBXqzXB38rzN8HfyvM3wd/K+2OCv87fjru1On7zh33+6A0NRQ==
+  </data>
+ </layer>
+ <layer name="goal" width="80" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAMAiCDrX+uxfAQEpAAAAAAAAAAwJ5rBwAAAAAAAAAAAABg2AOQVgA9
+  </data>
+ </layer>
+ <layer name="player" width="80" height="60" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztzkERAAAMAiBv/UMvhg8hAQkAAAAAAAAAAAAAAAAAAAAAALDs2gHmPE/oAAM=
+  </data>
+ </layer>
+</map>
